@@ -28,7 +28,7 @@ The script calculates the total amount of US dollars based on an initial amount 
 Steven figures out that he will be spending approximately 20% more money in France in a month than what he spends in NYC. He roughly spends $4,000 per month (30 days) in NYC.E xcluding his air travel expenses he wants to know how much he would need for his 45-days trip to France. 
 
 <p align="center">
-<img src="https://i.imgur.com/MUc4kNN.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/MUc4kNN.png" height="90%" width="90%"/>
 
 Here are the steps I took to solve this: The $4000, representing the initial spending amount in NYC. 30 days, representing his the duration of a month. Percentage increase in spending during the trip to France is 0.20. 45, representing the duration of the trip to France in days. The service fee percentage applied to the total spending in France is 0.0175. 
 
