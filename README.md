@@ -19,5 +19,6 @@ I developed Python program that shows the current time in France so he get used 
 <h2>Task 2</h2>
 My friend wants to carry 500 Euros, which he wants to get from currency exchange kiosks at the airport. There is a 1.75% service charge for the currency exchange. He wants to know how many dollars he will need to spend to get 500 Euros, including the 1.75% service charge. Note:assume 1.1 Dollar = 1 Euro.</h4>
 <p align="center">
-<img src="https://i.imgur.com/eP4wPzL.png" height="70%" width="70%"/>.</h4>
+<img src="https://i.imgur.com/eP4wPzL.png" height="70%" width="70%"/>
+
 The script calculates the total amount of US dollars based on an initial amount of euros, taking into account both the currency conversion rate and associated fee for the exchange service.
