@@ -10,9 +10,10 @@ A friend of mine is a bicycle enthusiast. He is planning a trip to France to com
 
 - <b>Python</b>(Jupyter Notebook)
 
-<br />
-<h4>Task 1. I developed Python program that shows the current time in France so he get used to the local time in France, prior to his travel. Note EST is 6 hours behind France.</h4>
+<h2>Task 1</h2>
+  
+I developed Python program that shows the current time in France so he get used to the local time in France, prior to his travel. Note EST is 6 hours behind France.</h4>
 <p align="center">
 <img src="https://i.imgur.com/imHrL0u.png" height="70%" width="70%"/>
-<br />
+
 
