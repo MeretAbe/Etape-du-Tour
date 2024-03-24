@@ -35,9 +35,13 @@ Here are the steps I took to solve this: The $4000, representing the initial spe
 I calculate Steven's estimated monthly spending in France, factoring in the 20 percent increase compared to spending in France which comes to $4,800. Then calculate the total spending for the trip to France, taking into account the adjusted spending in NYC, the service fee, and the duration of the trip.
 
 <h2>Task 4</h2>
-The ace involves covering 3,328 kilometer approximately. Steven is curious to know how many laps he will have to complete in the bicycle training facility if one lap in the practice track is 1.2 miles long. Note:One lap indicates the complete path, starting from the origin and back to the same point.
+The race involves covering 3,328 kilometer approximately. Steven is curious to know how many laps he will have to complete in the bicycle training facility if one lap in the practice track is 1.2 miles long. Note:One lap indicates the complete path, starting from the origin and back to the same point.
 
 <p align="center">
 <img src="https://i.imgur.com/E5YAx7R.png" height="70%" width="70%"/>
 
-Frist step,  calcuate the total distance of the race in miles by multiplying the total distance in kilometers by the conversion factor. Then find the total number of laps required to complete the bicycle training session by dividing the total distance of the race in miles by the distance of one lap in miles, rounds up to the nearest integer( using floor division and add 1 to ensure that even if there's a fractional lap, it rounds up to the next whole lap).
+Frist step, I calcuate the total distance of the race in miles by multiplying the total distance in kilometers by the conversion factor. Then find the total number of laps required to complete the bicycle training session by dividing the total distance of the race in miles by the distance of one lap in miles, rounds up to the nearest integer( using floor division and add 1 to ensure that even if there's a fractional lap, it rounds up to the next whole lap).
+
+
+
+
