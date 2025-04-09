@@ -42,7 +42,7 @@ The race involves covering 3,328 kilometer approximately. Steven is curious to k
 <p align="center">
 <img src="https://i.imgur.com/E5YAx7R.png" height="70%" width="70%"/>
 
-Frist step, I calcuate the total distance of the race in miles by multiplying the total distance in kilometers by the conversion factor. Then find the total number of laps required to complete the bicycle training session by dividing the total distance of the race in miles by the distance of one lap in miles, rounds up to the nearest integer( using floor division and add 1 to ensure that even if there's a fractional lap, it rounds up to the next whole lap).
+Frist step, I calcuate the total distance of the race in miles then find the total number of laps required to complete the bicycle training session by dividing the total distance of the race in miles by the distance of one lap in miles, round it up to the nearest integer( using floor division and add 1 to ensure that even if there's a fractional lap, it rounds up to the next whole lap).
 
 
 
